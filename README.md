@@ -1,1 +1,2 @@
-# 101348701_comp3133_assig2
+# COMP 3133 - Full Stack Development 2 
+## Assignment 02 - By Israr (101348701)
